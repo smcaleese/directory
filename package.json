@@ -1,0 +1,32 @@
+{
+  "name": "react-static-example-basic",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "react-static start",
+    "stage": "react-static build --staging",
+    "build": "react-static build",
+    "serve": "serve dist -p 3000",
+    "deploy": "yarn build && rm -r docs && mv dist docs && cp CNAME docs/CNAME && git add docs && git add content && git commit -m 'Deploy' && git push"
+  },
+  "dependencies": {
+    "chokidar": "2.0.3",
+    "html-entities": "^1.2.1",
+    "htmr": "0.6.3",
+    "jdown": "^0.3.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-hot-loader": "^4.0.0-beta.21",
+    "react-router": "^4.2.0",
+    "react-static": "^5.9.12",
+    "tipograph": "^0.5.0"
+  },
+  "devDependencies": {
+    "eslint-config-react-tools": "1.x.x",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6",
+    "serve": "^6.1.0"
+  }
+}
