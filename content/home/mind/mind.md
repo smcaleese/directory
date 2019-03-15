@@ -1,0 +1,1 @@
+Your mind affects every part of your life. Therefore it's important to optimize it.
