@@ -3,7 +3,7 @@
   "warnings": [],
   "version": "3.12.0",
   "hash": "c3cd0219ac1b5e7abeca",
-  "time": 4252,
+  "time": 4309,
   "publicPath": "/",
   "assetsByChunkName": {
     "src/containers/Note": [
