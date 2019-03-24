@@ -5,5 +5,5 @@ I want to think carefully about what I value so that achieving my goals has the 
 
 Ignoring the problem of what to value is not a solution. Whether the problem is solved or not, there will be real moral consequences to our actions. Neglecting this problem is probably ethically wrong because that would result in our actions having less of a positive effect on the world. Ignorance is not acceptable if you have the choice to remedy it.
 
-## 2. Create a long term plan based on what you discover above, deadline: end of February
-## 3. Begin implementing that plan and achieve your goals as effectively as possible, March - 
+## 2. Create a long term plan based on what you discover above, deadline:
+## 3. Begin implementing that plan and achieve your goals as effectively as possible

@@ -11,3 +11,4 @@ Below are some questions which might prompt you to think of something useful.
 - If you continue doing what you are doing today, where will you be ten or twenty years?
 - How could this be better?
 - Who do I Want to be in 10 Years?
+- What a perfect day in your life look like?
