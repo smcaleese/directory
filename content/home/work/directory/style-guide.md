@@ -16,7 +16,7 @@ Only add something to Directory if all the conditions below are true:
 
 1. It can't easily be found on the internet.
 2. It is more useful in a written form than in your mind.
-3. It isn't obvious.
+3. It's important.
 
 ### Deletion
 
