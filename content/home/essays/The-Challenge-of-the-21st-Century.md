@@ -1,0 +1,33 @@
+# The Challenge of the 21st Century
+
+The 21st century could be the most important century in in all of the history of civilization.
+
+Civilization as a whole was not in serious danger throughout history until the 20th century because of the advent of nuclear and thermonuclear weapons. Global warming also threatens civilization but we have time to adapt to it since it occurs over a relatively long time period. Only after the invention of nukes did human extinction become a real possibility. Natural disasters such as asteroid strikes are equally dangerous but they do not occur often. Therefore dangerous technologies are the primary threat to the existence of civilization.
+
+### Peak Extinction Risk in the 21st Century
+
+Only one dangerous technology - nuclear weapons - was introduced in the 20th century. But we could see the invention of several technologies rivaling or exceeding the riskiness of nuclear weapons in the 21st century such as genetic engineering, molecular manufacturing and ASI \(artificial super intelligence\). Thus humanity's risk of extinction could be much higher in the 21st century than the 20th century. But what about the 22nd century? I think that the extinction risk posed by advanced technologies will decrease after the 21st century because we will probably develop a more mature understanding of how to use these technologies responsibly. For example, an increased understanding of the consequences of nuclear war has led to nuclear disarmament. The severity of a nuclear war would be lower now than it would have been in the 1980's when the size of the global nuclear stockpile was at its largest. Likewise, a technology such as ASI may initially be very dangerous due to ignorance around how to use it safely but then increased wisdom may eventually increase its safety. A similar pattern could be seen with nuclear power. The Chernobyl accident in 1986 was the most severe nuclear incident to ever occur. After that, improved safety methods around nuclear power have prevented such a severe event from recurring or at least reduce the probability of such an event recurring.
+
+This pattern of technological development and then subsequent improvements in safety has occurred in the past for dangerous technologies but a different pattern may emerge for really dangerous technologies such as ASI. We may not have the opportunity to have an Chernobyl for AI which we can learn from. Instead the outcome could be much more polarized - either we build the technology safely from the outset or extinction occurs. This pattern would also explain why the extinction risk facing humanity would be lower in the 22nd century - either the technology is created safely resulting in low further risk or extinction occurs. If we face these two possibilities in the future then there could be a high risk time period to get through followed by a very long and safe future.
+
+The 20th and 21st centuries could be analogous to the birth of a baby – the baby is safe while in the womb and as a child but the process of birth is difficult to survive. If this analogy is true, then humanity could be passing through it’s difficult birth phase.
+
+![](../.gitbook/assets/existential-risk-21st-century.jpg)
+
+Notes on graph:
+
+* this graph assumes that Superintelligent AI, molecular manufacturing, genetic engineering and other dangerous technologies will be created some time around the middle of the 21st century.
+* even if these dates are incorrect, then the scales of the graph would merely need to be rescaled.
+* the first peak is due to a peak number of nuclear warheads in the world in the 1980s.
+* the second peak is due to the introduction of new and potentially dangerous technologies such as Superintelligent AI, molecular manufacturing and the ability to create genetically engineered super pathogens.
+* the level of extinction risk is low in the future because of increased wisdom on how to use advanced technologies safely. Also if Superintelligent AI is created safely, then it would be able to use its vast intelligence to prevent all future extinction events.
+* the percentage extinction risk per year which the peaks represent does not really matter – any reduction in extinction risk would be hugely impactful.
+
+### Why does this matter?
+
+If the extinction of humanity occurs sometime in the 21st century or later, then an enormous number of future potential people or other sentient minds would not come into existence. From an impersonal \(non egoistic\) perspective, an extinction event would result in the loss of humanity’s entire future which would be an enormous loss given that civilization could be around for trillions of years or longer. Even those that have a purely egoistic \(selfish\) perspective could benefit from the avoidance of an extinction event since they would live longer as a result.
+
+### Conclusion
+
+Reducing extinction risk could be one of the highest priorities for humanity in the 21st century. The challenge of the 21st century is developing highly useful but potentially dangerous dangerous technologies safely so that humanity has a long and flourishing future.
+
