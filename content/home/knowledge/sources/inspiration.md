@@ -33,3 +33,5 @@ Great [video](https://www.youtube.com/watch?v=hEUO6pjwFOo&list=LLvp-yJKdMDeeajQo
 - Max Tegmark
 - Thomas Edison
 - Mozart
+
+- Francis Bacon
