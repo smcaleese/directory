@@ -1,10 +1,8 @@
-﻿# Accelerating and Diminishing Returns in Life
-
 ## Diminishing returns
 
 It makes sense to apply effort to activities with diminishing returns but only up to a point. At first, one unit of effort might yield two units so -1 effort + 2 gain = 1 net. Therefore the activity is worthwhile initially. After a while the same increase in effort will yield less and less results as the graph below shows. Eventually, as you apply more effort each unit of effort will yield almost no return so you will only experience net losses. At this point, it makes sense to stop investing effort. Brushing your teeth is an activity which experiences diminishing returns - after one minute, your teeth will be, say, 90% clean, 95% clean after the second minute and 98% clean after the third minute. It doesn't make sense to brush your teeth for ten minutes because the time wasted is greater than the cleanliness. Diminishing returns also applies to goods you buy in the shop. Five boxes of cereal is not five times more valuable than one box and if you were to buy a thousand boxes, the curve would actually move downward due to the inconvenience of storing them. The law of diminishing returns explains why people generally don't brush their teeth for an hour a day or buy hundreds of boxes of cereal.
 
-![](../.gitbook/assets/diminishing-returns.jpg)
+![](/images/diminishing-returns.jpg)
 
 ## Accelerating Returns
 
@@ -14,7 +12,7 @@ Initially, one unit of effort may yield one unit of output. The second unit of e
 
 In winner-takes-all scenarios, there are two rational ways of acting - you should either apply no effort to minimize costs or you should apply maximum effort so that you get to the right side of the graph and pay off the effort-debt you have accumulated. Those who are in the middle of the graph are in the worst position - they have invested quite a lot of effort and received nothing in return.
 
-![](../.gitbook/assets/accelerating-returns.jpg)
+![](/images/accelerating-returns.jpg)
 
 I haven't described linear relationships because, in the real world, I don't think true linear relationships are that common. Relationships that appear linear might actually be slightly diminishing or accelerating. For example, a wage job seems linear at first, but actually the money earned has diminishing value - being twice as wealth probably won't double your standard of living.
 

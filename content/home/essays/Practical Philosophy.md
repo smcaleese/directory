@@ -1,5 +1,3 @@
-# Practical Philosophy
-
 Questioning the reasoning behind our actions eventually leads to questions that are difficult to answer. But yet, we still go about our daily business without decision paralysis. If these questions are murky and hard to define, let alone answer, how can this be?
 
 While we have conscious confusion around our motivations, we still know what to do because of powerful and flexible unconscious intuitions. In some ways, these intuitions are vastly superior to conscious thought - they can be changed quickly moment by moment and they allow us to create complex conclusions with little effort.

@@ -1,5 +1,3 @@
-# The Challenge of the 21st Century
-
 The 21st century could be the most important century in in all of the history of civilization.
 
 Civilization as a whole was not in serious danger throughout history until the 20th century because of the advent of nuclear and thermonuclear weapons. Global warming also threatens civilization but we have time to adapt to it since it occurs over a relatively long time period. Only after the invention of nukes did human extinction become a real possibility. Natural disasters such as asteroid strikes are equally dangerous but they do not occur often. Therefore dangerous technologies are the primary threat to the existence of civilization.
@@ -12,7 +10,7 @@ This pattern of technological development and then subsequent improvements in sa
 
 The 20th and 21st centuries could be analogous to the birth of a baby – the baby is safe while in the womb and as a child but the process of birth is difficult to survive. If this analogy is true, then humanity could be passing through it’s difficult birth phase.
 
-![](../.gitbook/assets/existential-risk-21st-century.jpg)
+![](/images/ex-risk-across-time.svg)
 
 Notes on graph:
 

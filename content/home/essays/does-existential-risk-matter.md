@@ -1,5 +1,3 @@
-# Does Existential Risk Matter?
-
 An existential catastrophe is an event which would cause the extinction of earth-originating intelligent life or permanently and drastically curtail its potential. An existential risk is an event which could cause an existential catastrophe.
 
 I think the question of whether existential risk matters is really important because an existential catastrophe would be such an impactful event. Therefore any effort put into understanding or reducing existential risk could have a very large positive impact.

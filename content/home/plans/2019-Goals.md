@@ -35,4 +35,4 @@ New experiences slow down the perception of time and make the past seem more 'fu
 
 # Time Division
 
-I intend to spend most of my time on work. 40% output, 40% input, %10 on relationships and 10% on experiences sounds like a good split. Though I'll modify these ratios based on future experience.
+I intend to spend most of my time on work. 40% output, 40% input, 10% on relationships and 10% on experiences sounds like a good split. Though I'll modify these ratios based on future experience.
