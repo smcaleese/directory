@@ -1,3 +1,9 @@
+> *"Do not squander time for that is the stuff life is made of." - Benjamin Franklin*
+
+Time is an important resource and is arguably the most important one because it's nonrenewable. The problem is how to decide how to spend your time.
+
+
+
 A 40 year career is less than 15,000 days which isn't that many days. Think about how short a day is. When you multiply something relatively small by something small, you get something small. Therefore, life is short.
 
 We live as if we will live forever but our time is probably limited. We live as if each day as if tomorrow is a renewal of today. The reality is that yesterday is not an old version of today. Yesterday is gone and every day spent is gone forever.
