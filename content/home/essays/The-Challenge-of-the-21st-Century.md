@@ -10,16 +10,14 @@ This pattern of technological development and then subsequent improvements in sa
 
 The 20th and 21st centuries could be analogous to the birth of a baby – the baby is safe while in the womb and as a child but the process of birth is difficult to survive. If this analogy is true, then humanity could be passing through it’s difficult birth phase.
 
-![](/images/ex-risk-across-time.svg)
+![](http://3.bp.blogspot.com/_vBoXdWle608/ScudEn8PETI/AAAAAAAAADQ/bawM5Yl5zlI/s1600/Existential+Risk,+Probability+2.jpg)
 
 Notes on graph:
 
-* this graph assumes that Superintelligent AI, molecular manufacturing, genetic engineering and other dangerous technologies will be created some time around the middle of the 21st century.
+* this graph assumes that Superintelligent AI, molecular manufacturing, genetic engineering and other dangerous technologies will be created some time in the 21st century.
 * even if these dates are incorrect, then the scales of the graph would merely need to be rescaled.
-* the first peak is due to a peak number of nuclear warheads in the world in the 1980s.
-* the second peak is due to the introduction of new and potentially dangerous technologies such as Superintelligent AI, molecular manufacturing and the ability to create genetically engineered super pathogens.
-* the level of extinction risk is low in the future because of increased wisdom on how to use advanced technologies safely. Also if Superintelligent AI is created safely, then it would be able to use its vast intelligence to prevent all future extinction events.
-* the percentage extinction risk per year which the peaks represent does not really matter – any reduction in extinction risk would be hugely impactful.
+* In the far future, the level of existential risk would fall because we would either develop the ability to use advanced technologies safely or go extinct.
+* the percentage extinction risk per year which the peaks represent does not really matter – any reduction in extinction risk would be incredibly beneficial.
 
 ### Why does this matter?
 
