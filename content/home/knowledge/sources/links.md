@@ -10,3 +10,4 @@
 
 - https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html
 
+- Programming tips from John Blow (famous indie games programmer): https://www.youtube.com/watch?v=JjDsP5n2kSM&t=216s
