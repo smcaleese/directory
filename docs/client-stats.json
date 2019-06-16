@@ -3,7 +3,7 @@
   "warnings": [],
   "version": "3.12.0",
   "hash": "c3cd0219ac1b5e7abeca",
-  "time": 4213,
+  "time": 4405,
   "publicPath": "/",
   "assetsByChunkName": {
     "src/containers/Note": [
@@ -356,9 +356,9 @@
             0
           ],
           "assets": [],
-          "issuer": "/home/stephen/Desktop/directory-master/node_modules/readable-stream/readable-browser.js",
-          "issuerId": 144,
-          "issuerName": "./node_modules/readable-stream/readable-browser.js",
+          "issuer": "/home/stephen/Desktop/directory-master/node_modules/readable-stream/duplex-browser.js",
+          "issuerId": 168,
+          "issuerName": "./node_modules/readable-stream/duplex-browser.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -16653,9 +16653,9 @@
         0
       ],
       "assets": [],
-      "issuer": "/home/stephen/Desktop/directory-master/node_modules/readable-stream/readable-browser.js",
-      "issuerId": 144,
-      "issuerName": "./node_modules/readable-stream/readable-browser.js",
+      "issuer": "/home/stephen/Desktop/directory-master/node_modules/readable-stream/duplex-browser.js",
+      "issuerId": 168,
+      "issuerName": "./node_modules/readable-stream/duplex-browser.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,

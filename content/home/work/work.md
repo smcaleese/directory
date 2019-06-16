@@ -1,1 +1,5 @@
-Things I am currently working on
+It's assumed that everyone will get a career but it's also important to specify what you want the output of your work to be (apart from generating an income). Work takes up a large fraction of our lives so it's important that this time is meaningfully spent rather than just being used to finance other parts of our lives.
+
+Personally, I think the purpose of work is to either maintain or improve the state of the world. I don't think civilization has reached it's full potential so I'd like to do whatever I can to preserve and improve our civilization. 
+
+In my life, this might involve taking action to minimize existential risk and promoting the development of beneficial future technologies. Contributing to these areas could involve working directly in them or donating money to organizations that are already working in them.
