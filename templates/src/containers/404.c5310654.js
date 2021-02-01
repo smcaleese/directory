@@ -1,0 +1,2 @@
+webpackJsonp([2],{51:function(e,t,l){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=l(0),a=function(e){return e&&e.__esModule?e:{default:e}}(n);t.default=function(){return a.default.createElement("div",null,a.default.createElement("div",{className:"header"},a.default.createElement("div",{className:"container"},a.default.createElement("h1",null,"Not found"),a.default.createElement("h2",null,"I edited or rearranged the note you're looking for."))))}}});
+//# sourceMappingURL=404.c5310654.js.map
