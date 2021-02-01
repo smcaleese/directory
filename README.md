@@ -1,9 +1,6 @@
 # Directory
 
-Directory is my collection of my knowledge, ideas and values ([more information](https://directory.stephenmcaleese.net/home/work/directory))
-
-Click [here](directory.stephenmcaleese.net) to visit Directory.
-
+Directory is my collection of my knowledge, ideas and values ([more information](https://directory.stephenmcaleese.com/home/work/directory))
 
 
 ## How to Create Your Own Directory
