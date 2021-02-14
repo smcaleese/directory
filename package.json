@@ -17,7 +17,7 @@
   "dependencies": {
     "chokidar": "2.0.3",
     "html-entities": "^1.2.1",
-    "htmr": "0.6.3",
+    "htmr": "0.8.7",
     "jdown": "^0.3.0",
     "node": "^15.8.0",
     "react": "^16.0.0",
